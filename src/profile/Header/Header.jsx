@@ -76,7 +76,6 @@ function Header({ courseOrg, courseNumber, courseTitle, intl }) {
           </a>
           <div className="py-2 d-flex align-items-center ">
             {/* {headerLogo} */}
-            
             {/* {authenticatedUser && (
               <AuthenticatedUserDropdown
                 enterpriseLearnerPortalLink={enterpriseLearnerPortalLink}
